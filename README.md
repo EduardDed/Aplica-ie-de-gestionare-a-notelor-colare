@@ -1,1 +1,1 @@
-# Aplica-ie-de-gestionare-a-notelor-colare
+# Aplicatie-de-gestionare-a-notelor-scolare
