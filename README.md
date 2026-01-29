@@ -1,7 +1,7 @@
-Tema 9 - Aplicație de gestionare a notelor școlare (C++)
+Tema 9 - Aplicatie de gestionare a notelor scolare (C++)
 
-Aplicație C++ pentru gestionarea elevilor și a notelor:
-- adăugare elevi
-- adăugare note
+Aplicatie C++ pentru gestionarea elevilor si a notelor:
+- adaugare elevi
+- adaugare note
 - listare
 - calcul medii
