@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(tema9_note_scolare
     src/main.cpp
+    src/storage.cpp
+    src/services.cpp
 )
