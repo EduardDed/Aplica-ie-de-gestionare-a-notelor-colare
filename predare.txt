@@ -1,0 +1,7 @@
+Titlu: Tema 9 - Aplicatie de gestionare a notelor scolare
+
+Repository (public):
+https://github.com/EduardDed/Aplica-ie-de-gestionare-a-notelor-colare
+
+Imagine Docker (public):
+https://hub.docker.com/r/eduardded/tema9-note-scolare
